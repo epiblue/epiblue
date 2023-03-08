@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Artur</h1>
-<h3 align="center">Frontend developer.</h3>
+👋 Welcome to my GitHub profile! 
+
+I'm a Magento front-end developer and ReactJS coder. I also work as a project manager and lead. I've been working on various projects since 2013 and currently working as a front-end coder. I'm interested in AI, working with APIs, and developing future-driven projects. 
+
+Let's connect and collaborate! 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
